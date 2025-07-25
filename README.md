@@ -11,6 +11,8 @@ This crate works through spawning the key listening task on one thread, and call
  > I have not yet put this program on crates.io, I may if I extend it and add more features. For now however, clone the repository for use.
 
 ## Usage
+Refer to this list of [virtual key codes](https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes) for usage.
+
 examples/example.rs provides a usage example.
 Run it from the root directory with `cargo run --example example`.
 
